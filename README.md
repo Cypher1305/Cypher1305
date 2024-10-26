@@ -35,3 +35,5 @@ Welcome to my profile! I'm a passionate tech enthusiast with a bachelor's degree
 - 🤝 [Connect with me on LinkedIn](https://www.linkedin.com/in/bénédicte-yao)
 
 Thanks for stopping by! Let’s connect and explore the fascinating world of technology together. ✨🚀
+
+***XoXo😘❤️❤️❤️***
