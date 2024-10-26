@@ -7,6 +7,14 @@ Welcome to my profile! I'm a passionate tech enthusiast with a bachelor's degree
 
 ---
 
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cypher1305&show_icons=true&theme=radical)
+
+![GitHub Followers](https://img.shields.io/github/followers/Cypher1305?style=social)
+![GitHub Stars](https://img.shields.io/github/stars/Cypher1305?style=social)
+![GitHub Repositories](https://img.shields.io/github/followers/Cypher1305?style=social)
+
+---
+
 ### 💞️ Tech Stack
 
 | ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) | ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) | ![Python](https://img.icons8.com/color/48/000000/python.png) | ![React](https://img.icons8.com/color/48/000000/react-native.png) | ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) | ![Spring Boot](https://img.icons8.com/color/48/000000/spring-logo.png) | ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png) | ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) | ![MariaDB](https://img.icons8.com/color/48/000000/mariadb.png) |
