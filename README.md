@@ -11,10 +11,10 @@ Welcome to my profile! I'm a passionate tech enthusiast with a bachelor's degree
 
 ![GitHub Followers](https://img.shields.io/github/followers/Cypher1305?style=social)
 ![GitHub Stars](https://img.shields.io/github/stars/Cypher1305?style=social)
-![GitHub Repositories](https://img.shields.io/github/repos/Cypher1305?style=social)
+![GitHub Repositories](https://img.shields.io/github/followers/Cypher1305?style=social)
 
+--- 
 
----
 
 ### 💞️ Tech Stack
 
