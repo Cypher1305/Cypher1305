@@ -11,7 +11,7 @@ Welcome to my profile! I'm a passionate tech enthusiast with a bachelor's degree
 
 ![GitHub Followers](https://img.shields.io/github/followers/Cypher1305?style=social)
 ![GitHub Stars](https://img.shields.io/github/stars/Cypher1305?style=social)
-[![committers.top badge](https://user-badge.committers.top/ivory_coast/Cypher1305.svg)](https://user-badge.committers.top/ivory_coast/Cypher1305)
+
 --- 
 
 
