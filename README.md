@@ -7,7 +7,7 @@ Welcome to my profile! I'm a passionate tech enthusiast with a bachelor's degree
 
 ---
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cypher1305&show_icons=true&theme=radical&cache_seconds=60)
+![Your GitHub Stats](https://denvercoder1-github-readme-stats.vercel.app/api?username=Cypher1305&show_icons=true&theme=radical&cache_seconds=7200)
 
 ![GitHub Followers](https://img.shields.io/github/followers/Cypher1305?style=social&timestamp=1)
 ![GitHub Stars](https://img.shields.io/github/stars/Cypher1305?style=social&timestamp=1)
