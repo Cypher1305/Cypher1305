@@ -8,7 +8,7 @@ Hi! I'm a passionate tech enthusiast with a bachelor's degree in Web Technologie
   
 - 🕊️ **JIREH.**: I built a solidarity-based donation platform to streamline awareness campaigns, donation drives, and the fair redistribution of goods to those in need, as well as support for formation and professional insertion. [Bring a smile to a loved one's face.](https://jireh.org)
 
-- 🏢 **CYPHER**: _Comming soon!_
+- 🏢 **CYPHER**: _Comming soon!_ [Your next big project starts here!](https//cypher.ci)
 
 - 🎨 **Digital Creation**: I love expressing my creativity through design and community engagement. [Scroll down to connect with me on social media!](#-get-in-touch)
 
