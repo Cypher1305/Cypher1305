@@ -2,13 +2,13 @@
 
 Hi! I'm a passionate tech enthusiast with a bachelor's degree in Web Technologies and Digital Images from the African Higher School of ICT (ESATIC). Currently, I'm pursuing a Master’s degree (Msc BIHAR) at ESATIC, where I'm focused on enhancing my skills in information technology, particularly in artificial intelligence.
 
-- 🌐 **ES-blog**: I run and developed a blog where I share insights on ICT news, student projects, and other tech-related topics. One of its standout features is DORA — an AI-powered fact-checker designed to effectively combat misinformation.[Check it out for the latest updates and articles!](https://esblog.info)
+- 🌐 **ES-blog**: I run and developed a blog where I share insights on ICT news, student projects, and other tech-related topics. One of its standout features is DORA, a fact-checker designed to effectively combat misinformation.[Check it out for the latest updates and articles!](https://esblog.info)
 
 - 📷 **MyPhotoCard**:  I’m also the developer and co-founder of MyPhotoCard, an online platform for printing photos in Polaroid and sticker formats. We also offer on-site photo shoots during events to capture and preserve memorable moments. [Snap it. Print it. Keep the magic!](https://myphotocard.com)
   
 - 👥 **JIREH.**: I built a solidarity-based donation platform to streamline awareness campaigns, donation drives, and the fair redistribution of goods to those in need, as well as support for formation and professional insertion. [Bring a smile to a loved one's face.](https://jireh.org)
 
-- 🏢 **CYPHER**: 
+- 🏢 **CYPHER**: _Comming soon!_
 
 ---
 
