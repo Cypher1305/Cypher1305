@@ -10,6 +10,8 @@ Hi! I'm a passionate tech enthusiast with a bachelor's degree in Web Technologie
 
 - 🏢 **CYPHER**: _Comming soon!_
 
+- 🎨 **Digital Creation**: I love expressing my creativity through design and community engagement.
+
 ---
 
 ![Your GitHub Stats](https://denvercoder1-github-readme-stats.vercel.app/api?username=Cypher1305&show_icons=true&theme=radical&cache_seconds=7200)
