@@ -23,13 +23,24 @@ Hi! I'm a passionate tech enthusiast with a bachelor's degree in Web Technologie
 --- 
 
 
-### 💞️ Tech Stack
+### 💻 Tech Stack & Tools
 
-| ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) | ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) | ![Python](https://img.icons8.com/color/48/000000/python.png) | ![React](https://img.icons8.com/color/48/000000/react-native.png) | ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) | ![Spring Boot](https://img.icons8.com/color/48/000000/spring-logo.png) | ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png) | ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) | ![MariaDB](https://img.icons8.com/color/48/000000/mariadb.png) |
-|-----------------------------------------------------------------------|----------------------------------------------------------------------|---------------------------------------------------------|---------------------------------------------------------|---------------------------------------------------------|---------------------------------------------------------|---------------------------------------------------------|---------------------------------------------------------|---------------------------------------------------------|
-| ![PostgreSQL](https://img.icons8.com/color/48/000000/postgresql.png) | ![Git](https://img.icons8.com/color/48/000000/git.png)               | ![Docker](https://img.icons8.com/color/48/000000/docker.png)         | ![Expo CLI](https://img.icons8.com/color/48/000000/expo.png) | ![Express](https://img.icons8.com/color/48/000000/express.png) | ![Vite.js](https://img.icons8.com/color/48/000000/vite.png) | ![PHP](https://img.icons8.com/color/48/000000/php.png)               | ![HTML](https://img.icons8.com/color/48/000000/html-5.png)          | ![CSS](https://img.icons8.com/color/48/000000/css3.png) |
-| ![Tailwind CSS](https://img.icons8.com/color/48/000000/tailwindcss.png) | ![Sass](https://img.icons8.com/color/48/000000/sass.png)             | ![Laravel](https://img.icons8.com/color/48/000000/laravel.png) | ![Flutter](https://img.icons8.com/color/48/000000/flutter.png) | ![WordPress](https://img.icons8.com/color/48/000000/wordpress.png)   | ![Joomla](https://img.icons8.com/color/48/000000/joomla.png)        | ![Odoo](https://img.icons8.com/color/48/000000/odoo.png) | ![Figma](https://img.icons8.com/color/48/000000/figma.png) | ![Adobe Illustrator](https://img.icons8.com/color/48/000000/adobe-illustrator.png) |
-| ![Photoshop](https://img.icons8.com/color/48/000000/adobe-photoshop.png) | ![XD](https://img.icons8.com/color/48/000000/adobe-xd.png) | ![InDesign](https://img.icons8.com/color/48/000000/adobe-indesign.png) | ![Visual Studio Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png) | ![After Effects](https://img.icons8.com/color/48/000000/adobe-after-effects.png) | ![Canva](https://img.icons8.com/color/48/000000/canva.png) | ![Wix](https://img.icons8.com/color/48/000000/wix.png) | 
+| JavaScript | Java | Python | React | Node.js | Spring Boot | MySQL | MongoDB |
+|------------|------|--------|-------|---------|--------------|--------|---------|
+| ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) | ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) | ![Python](https://img.icons8.com/color/48/000000/python.png) | ![React](https://img.icons8.com/color/48/000000/react-native.png) | ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) | ![Spring Boot](https://img.icons8.com/color/48/000000/spring-logo.png) | ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png) | ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) |
+
+| PostgreSQL | Git | Docker | Expo | Express | Vite | PHP | HTML |
+|------------|-----|--------|------|---------|------|-----|------|
+| ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) | ![Git](https://img.icons8.com/color/48/000000/git.png) | ![Docker](https://img.icons8.com/color/48/000000/docker.png) | ![Expo CLI](https://img.icons8.com/color/48/000000/expo.png) | ![Express](https://img.icons8.com/color/48/000000/express.png) | ![Vite.js](https://img.icons8.com/color/48/000000/vite.png) | ![PHP](https://img.icons8.com/color/48/000000/php.png) | ![HTML](https://img.icons8.com/color/48/000000/html-5.png) |
+
+| CSS | Tailwind CSS | Sass | Laravel | Flutter | WordPress | Odoo | Figma |
+|-----|--------------|------|---------|---------|-----------|------|-------|
+| ![CSS](https://img.icons8.com/color/48/000000/css3.png) | ![Tailwind CSS](https://img.icons8.com/color/48/000000/tailwindcss.png) | ![Sass](https://img.icons8.com/color/48/000000/sass.png) | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) | ![Flutter](https://img.icons8.com/color/48/000000/flutter.png) | ![WordPress](https://img.icons8.com/color/48/000000/wordpress.png) | ![Odoo](https://img.shields.io/badge/Odoo-9C4D9C?style=for-the-badge&logo=odoo&logoColor=white) | ![Figma](https://img.icons8.com/color/48/000000/figma.png) |
+
+| Illustrator | Photoshop | Adobe XD | InDesign | VS Code | After Effects | Canva | Wix |
+|-------------|-----------|----------|----------|---------|----------------|--------|-----|
+| ![Adobe Illustrator](https://img.icons8.com/color/48/000000/adobe-illustrator.png) | ![Photoshop](https://img.icons8.com/color/48/000000/adobe-photoshop.png) | ![XD](https://img.icons8.com/color/48/000000/adobe-xd.png) | ![InDesign](https://img.icons8.com/color/48/000000/adobe-indesign.png) | ![Visual Studio Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png) | ![After Effects](https://img.icons8.com/color/48/000000/adobe-after-effects.png) | ![Canva](https://img.icons8.com/color/48/000000/canva.png) | ![Wix](https://img.shields.io/badge/Wix-000000?style=for-the-badge&logo=wix&logoColor=white) |
+
 
 ---
 
