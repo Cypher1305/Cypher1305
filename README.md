@@ -1,4 +1,4 @@
-# 👋 Hi, I'm @Cypher1305! 
+# 🤗 Hi, I'm @Cypher1305! 
 
 Hi! I'm a passionate tech enthusiast with a bachelor's degree in Web Technologies and Digital Images from the African Higher School of ICT (ESATIC). Currently, I'm pursuing a Master’s degree (Msc BIHAR) at ESATIC, where I'm focused on enhancing my skills in information technology, particularly in artificial intelligence.
 
