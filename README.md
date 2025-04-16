@@ -6,7 +6,7 @@ Hi! I'm a passionate tech enthusiast with a bachelor's degree in Web Technologie
 
 - 📷 **MyPhotoCard**:  I’m also the developer and co-founder of MyPhotoCard, an online platform for printing photos in Polaroid and sticker formats. We also offer on-site photo shoots during events to capture and preserve memorable moments. [Snap it. Print it. Keep the magic!](https://myphotocard.com)
   
-- 👥 **JIREH.**: I built a solidarity-based donation platform to streamline awareness campaigns, donation drives, and the fair redistribution of goods to those in need, as well as support for formation and professional insertion. [Bring a smile to a loved one's face.](https://jireh.org)
+- 🕊️ **JIREH.**: I built a solidarity-based donation platform to streamline awareness campaigns, donation drives, and the fair redistribution of goods to those in need, as well as support for formation and professional insertion. [Bring a smile to a loved one's face.](https://jireh.org)
 
 - 🏢 **CYPHER**: _Comming soon!_
 
