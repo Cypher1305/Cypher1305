@@ -50,7 +50,12 @@ Hi! I'm a passionate tech enthusiast with a bachelor's degree in Web Technologie
 ---
 
 ## 📬 Get in Touch
-- 🤝 [Connect with me on LinkedIn](https://www.linkedin.com/in/bénédicte-yao)
+- ✉️ [Send me an email](mailto:k.yao1305@email.com)
+- 🤝 [Connect with me on LinkedIn](https://www.linkedin.com/in/Cypher1305)
+- 📸 [Follow me on Instagram](https://www.instagram.com/_cypher1305)
+- 📘 [Connect on Facebook](https://www.facebook.com/Cypher1305)
+- 🎵 [Watch on TikTok](https://www.tiktok.com/@_cypher1305)
+
 
 Thanks for stopping by! Let’s connect and explore the fascinating world of technology together. ✨🚀
 
