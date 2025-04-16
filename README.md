@@ -10,7 +10,7 @@ Hi! I'm a passionate tech enthusiast with a bachelor's degree in Web Technologie
 
 - 🏢 **CYPHER**: _Comming soon!_
 
-- 🎨 **Digital Creation**: I love expressing my creativity through design and community engagement. [Scroll down to connect with me on social media!](#get-in-touch)
+- 🎨 **Digital Creation**: I love expressing my creativity through design and community engagement. [Scroll down to connect with me on social media!](#-get-in-touch)
 
 ---
 
