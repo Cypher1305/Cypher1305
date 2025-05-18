@@ -1,4 +1,4 @@
-# 🤗 Hi, I'm Cypher1305 ! 
+# 🤗 Hi, I'm [Cypher1305](https://benedicteyao.me) ! 
 
 Hi! I'm a passionate tech enthusiast with a bachelor's degree in Web Technologies and Digital Images from the African Higher School of ICT (ESATIC). Currently, I'm pursuing a Master’s degree (Msc BIHAR) at ESATIC, where I'm focused on enhancing my skills in information technology, particularly in artificial intelligence.
 
@@ -16,10 +16,13 @@ Hi! I'm a passionate tech enthusiast with a bachelor's degree in Web Technologie
 
 ![Your GitHub Stats](https://denvercoder1-github-readme-stats.vercel.app/api?username=Cypher1305&show_icons=true&theme=github_dark&cache_seconds=3600)
 
+![Profile Views](https://komarev.com/ghpvc/?username=cypher1305&color=1e3a8a&style=for-the-badge)
+
 ![GitHub Followers](https://img.shields.io/github/followers/Cypher1305?style=social&timestamp=1)
 ![GitHub Stars](https://img.shields.io/github/stars/Cypher1305?style=social&timestamp=1)
 
 [![committers.top badge](https://user-badge.committers.top/ivory_coast/Cypher1305.svg?cache_seconds=600)](https://user-badge.committers.top/ivory_coast/Cypher1305)
+
 
 
 
@@ -53,10 +56,10 @@ Hi! I'm a passionate tech enthusiast with a bachelor's degree in Web Technologie
 ---
 
 ## 📰 Subscribe to My Newsletter
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/cypher1305)
-[![Dev.to](https://img.shields.io/badge/Dev.to-Read%20Articles-black?logo=dev.to&logoColor=white&style=for-the-badge)](https://dev.to/cypher1305)
-[![CodePen](https://img.shields.io/badge/CodePen-Explore-grey?logo=codepen&logoColor=white&style=for-the-badge)](https://codepen.io/cypher1305)
-[![Threads](https://img.shields.io/badge/Threads-Follow-black?logo=threads&logoColor=white&style=for-the-badge)](https://www.threads.net/@_cypher1305)
+[![Dev.to](https://img.shields.io/badge/Dev.to-Read%20Articles-0d1117?logo=dev.to&logoColor=white&style=for-the-badge)](https://dev.to/cypher1305)
+[![Threads](https://img.shields.io/badge/Threads-Follow-1d2d44?logo=threads&logoColor=white&style=for-the-badge)](https://www.threads.net/@_cypher1305)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-0077b5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/cypher1305)
+[![CodePen](https://img.shields.io/badge/CodePen-Explore-1e3a8a?logo=codepen&logoColor=white&style=for-the-badge)](https://codepen.io/cypher1305)
 
 ---
 
@@ -70,4 +73,9 @@ Hi! I'm a passionate tech enthusiast with a bachelor's degree in Web Technologie
 
 Thanks for stopping by! Let’s connect and explore the fascinating world of technology together. ✨🚀
 
-***XoXo😘❤️❤️❤️***
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="60">
+  <em>“Think it.❤️ Write it.❤️ Code it.❤️ Share it.❤️ Repeat.”</em>
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="60">
+</p>
