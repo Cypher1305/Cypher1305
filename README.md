@@ -22,6 +22,7 @@ Hi! I'm a passionate tech enthusiast with a bachelor's degree in Web Technologie
 [![committers.top badge](https://user-badge.committers.top/ivory_coast/Cypher1305.svg?cache_seconds=600)](https://user-badge.committers.top/ivory_coast/Cypher1305)
 
 
+
 --- 
 
 
@@ -51,12 +52,20 @@ Hi! I'm a passionate tech enthusiast with a bachelor's degree in Web Technologie
 
 ---
 
+## 📰 Subscribe to My Newsletter
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/cypher1305)
+[![Dev.to](https://img.shields.io/badge/Dev.to-Read%20Articles-black?logo=dev.to&logoColor=white&style=for-the-badge)](https://dev.to/cypher1305)
+[![CodePen](https://img.shields.io/badge/CodePen-Explore-grey?logo=codepen&logoColor=white&style=for-the-badge)](https://codepen.io/cypher1305)
+[![Threads](https://img.shields.io/badge/Threads-Follow-black?logo=threads&logoColor=white&style=for-the-badge)](https://www.threads.net/@_cypher1305)
+
+---
+
 ## 📬 Get in Touch
 - ✉️ [Send me an email](mailto:k.yao1305@email.com)
 - 🤝 [Connect with me on LinkedIn](https://www.linkedin.com/in/Cypher1305)
 - 📸 [Follow me on Instagram](https://www.instagram.com/_cypher1305)
 - 📘 [Connect on Facebook](https://www.facebook.com/Cypher1305)
-- 🎵 [Watch on TikTok](https://www.tiktok.com/@_cypher1305)
+- 🎬 [Watch on TikTok](https://www.tiktok.com/@_cypher1305)
 
 
 Thanks for stopping by! Let’s connect and explore the fascinating world of technology together. ✨🚀
