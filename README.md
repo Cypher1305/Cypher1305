@@ -75,7 +75,5 @@ Thanks for stopping by! Let’s connect and explore the fascinating world of tec
 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="60">
   <em>“Think it.❤️ Write it.❤️ Code it.❤️ Share it.❤️ Repeat.”</em>
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="60">
 </p>
