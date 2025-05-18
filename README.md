@@ -75,5 +75,5 @@ Thanks for stopping by! Let’s connect and explore the fascinating world of tec
 
 
 <p align="center">
-  <em>“Think it.❤️ Write it.❤️ Code it.❤️ Share it.❤️ Repeat.”</em>
+  <em>“Think it.❤️ Code it.❤️ Share it.❤️ Repeat.”</em>
 </p>
