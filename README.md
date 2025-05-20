@@ -16,12 +16,10 @@ Hi! I'm a passionate tech enthusiast with a bachelor's degree in Web Technologie
 
 ![Your GitHub Stats](https://denvercoder1-github-readme-stats.vercel.app/api?username=Cypher1305&show_icons=true&theme=github_dark&cache_seconds=3600)
 
-![Profile Views](https://komarev.com/ghpvc/?username=cypher1305&color=1e3a8a&style=for-the-badge&cache_seconds=3600)
-
+[![committers.top badge](https://user-badge.committers.top/ivory_coast/Cypher1305.svg?cache_seconds=600)](https://user-badge.committers.top/ivory_coast/Cypher1305)
 ![GitHub Followers](https://img.shields.io/github/followers/Cypher1305?style=social&timestamp=1)
 ![GitHub Stars](https://img.shields.io/github/stars/Cypher1305?style=social&timestamp=1)
-
-[![committers.top badge](https://user-badge.committers.top/ivory_coast/Cypher1305.svg?cache_seconds=600)](https://user-badge.committers.top/ivory_coast/Cypher1305)
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=cypher1305.visitor-badge&style=flat)
 
 
 
