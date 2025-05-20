@@ -52,6 +52,7 @@ Hi! I'm a passionate tech enthusiast with a bachelor's degree in Web Technologie
 
 ## 🏆 Achievements
 - 🌟 Completed multiple projects aimed at enhancing user experience and customer satisfaction, focusing on intuitive design and functionality.
+- 🌟 Ranked among the Top 30 contributors (only publics repositories) on GitHub in Ivory Coast ([committers.top](https://committers.top/ivory_coast))
 
 ---
 
