@@ -47,8 +47,6 @@ Hi! I'm a passionate tech enthusiast with a bachelor's degree in Web Technologie
 | ![Adobe Illustrator](https://img.icons8.com/color/48/000000/adobe-illustrator.png) | ![Photoshop](https://img.icons8.com/color/48/000000/adobe-photoshop.png) | ![XD](https://img.icons8.com/color/48/000000/adobe-xd.png) | ![InDesign](https://img.icons8.com/color/48/000000/adobe-indesign.png) | ![Visual Studio Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png) | ![After Effects](https://img.icons8.com/color/48/000000/adobe-after-effects.png) | ![Canva](https://img.icons8.com/color/48/000000/canva.png) | ![Wix](https://img.shields.io/badge/Wix-000000?style=for-the-badge&logo=wix&logoColor=white) |
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cypher1305&layout=compact&langs_count=8)
-
 
 ---
 
