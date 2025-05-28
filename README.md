@@ -18,7 +18,7 @@ Hi! I'm a passionate tech enthusiast with a bachelor's degree in Web Technologie
 ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Cypher1305&theme=dark&hide_border=true)
 
 
-[![committers.top badge](https://user-badge.committers.top/ivory_coast/Cypher1305.svg?cacheSeconds=600)](https://user-badge.committers.top/ivory_coast/Cypher1305)
+[![committers.top badge](https://user-badge.committers.top/ivory_coast/Cypher1305.svg?cacheSeconds=60)](https://user-badge.committers.top/ivory_coast/Cypher1305)
 ![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=cypher1305.visitor-badge&style=flat)
 
 
