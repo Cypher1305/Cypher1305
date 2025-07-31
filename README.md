@@ -1,6 +1,6 @@
-# <img src="https://slackmojis.com/emojis/69594-100005117/download" width="30"/> Hi, I'm [Cypher1305](https://benedicteyao.me) ! 
+# <img src="https://slackmojis.com/emojis/69594-100005117/download" width="30"/> Hi, I'm [Cypher1305](https://benedicteyao.me)
 
-Hi! I'm a passionate tech enthusiast with a bachelor's degree in Web Technologies and Digital Images from the African Higher School of ICT (ESATIC). Currently, I'm pursuing a Master’s degree (Msc BIHAR) at ESATIC, where I'm focused on enhancing my skills in information technology, particularly in artificial intelligence.
+I'm a passionate tech enthusiast with a bachelor's degree in Web Technologies and Digital Images from the African Higher School of ICT (ESATIC). Currently, I'm pursuing a Master’s degree (Msc BIHAR) at ESATIC, where I'm focused on enhancing my skills in information technology, particularly in artificial intelligence.
 
 - 🌐 **ES-blog**: I run and developed a blog where I share insights on ICT news, student projects, and other tech-related topics. One of its standout features is DORA, a fact-checker designed to effectively combat misinformation.[Check it out for the latest updates and articles!](https://esblog.info)
 
@@ -61,7 +61,7 @@ Hi! I'm a passionate tech enthusiast with a bachelor's degree in Web Technologie
 - [Watch on TikTok](https://www.tiktok.com/@_cypher1305)
 
 
-Thanks for stopping by! Let’s connect and explore the fascinating world of technology together. ✨🚀
+Thanks for stopping by! Let’s connect and explore the fascinating world of technology together.
 
 
 <p align="center">
