@@ -1,4 +1,4 @@
-# 🤗 Hi, I'm [Cypher1305](https://benedicteyao.me) ! 
+# <img src="https://slackmojis.com/emojis/69594-100005117/download" width="30"/> Hi, I'm [Cypher1305](https://benedicteyao.me) ! 
 
 Hi! I'm a passionate tech enthusiast with a bachelor's degree in Web Technologies and Digital Images from the African Higher School of ICT (ESATIC). Currently, I'm pursuing a Master’s degree (Msc BIHAR) at ESATIC, where I'm focused on enhancing my skills in information technology, particularly in artificial intelligence.
 
@@ -17,10 +17,12 @@ Hi! I'm a passionate tech enthusiast with a bachelor's degree in Web Technologie
 ---
 
 ![Your GitHub Stats](https://denvercoder1-github-readme-stats.vercel.app/api?username=Cypher1305&show_icons=true&theme=github_dark&cacheSeconds=3600)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Cypher1305&theme=github-dark-blue)](https://github.com/Cypher1305)
 
 
 
-[![committers.top badge](https://user-badge.committers.top/ivory_coast/Cypher1305.svg?cacheSeconds=60)](https://user-badge.committers.top/ivory_coast/Cypher1305)
+
+[![committers.top badge](https://user-badge.committers.top/ivory_coast/Cypher1305.svg?cacheSecond)](https://user-badge.committers.top/ivory_coast/Cypher1305)
 ![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=cypher1305.visitor-badge&style=flat)
 
 
@@ -30,14 +32,14 @@ Hi! I'm a passionate tech enthusiast with a bachelor's degree in Web Technologie
 --- 
 
 
-### 💻 Tech Stack & Tools
+### <img src="https://readme-typing-svg.demolab.com/?lines=Tech%20Stack%20and%20Tools&Code&start=true&vCenter=true&pause=2000&size=22" />
 
 [![My Skills](https://skillicons.dev/icons?i=kubernetes,docker,git,github,gitlab,linux,aws,go,java,python,nodejs,graphql,fastapi,php,laravel,django,firebase,mysql,sqlite,mongodb,html,css,js,ts,react,vuejs,angular,nextjs,tailwind,figma,illustrator)](https://skillicons.dev)
 
 
 ---
 
-## 🏆 Achievements
+## <img src="https://readme-typing-svg.demolab.com/?lines=Achievements&Code&start=true&vCenter=true&pause=2000&size=22" />
 - 🌟 Completed multiple projects aimed at enhancing user experience and customer satisfaction, focusing on intuitive design and functionality.
 - 🌟 Ranked among the Top 15 contributors (only publics repositories) on GitHub (Ivory Coast [committers.top](https://committers.top/ivory_coast))
 
@@ -51,12 +53,12 @@ Hi! I'm a passionate tech enthusiast with a bachelor's degree in Web Technologie
 
 ---
 
-## 📬 Get in Touch
-- ✉️ [Send me an email](mailto:k.yao1305@email.com)
-- 🤝 [Connect with me on LinkedIn](https://www.linkedin.com/in/Cypher1305)
-- 📸 [Follow me on Instagram](https://www.instagram.com/_cypher1305)
-- 📘 [Connect on Facebook](https://www.facebook.com/Cypher1305)
-- 🎬 [Watch on TikTok](https://www.tiktok.com/@_cypher1305)
+## <img src="https://slackmojis.com/emojis/60672-revolving-hearts/download" width="30"/> Get in Touch
+- [Send me an email](mailto:k.yao1305@email.com)
+- [Connect with me on LinkedIn](https://www.linkedin.com/in/Cypher1305)
+- [Follow me on Instagram](https://www.instagram.com/_cypher1305)
+- [Connect on Facebook](https://www.facebook.com/Cypher1305)
+- [Watch on TikTok](https://www.tiktok.com/@_cypher1305)
 
 
 Thanks for stopping by! Let’s connect and explore the fascinating world of technology together. ✨🚀
