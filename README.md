@@ -1,6 +1,6 @@
 <h1 align="center"> <img src="https://slackmojis.com/emojis/69594-100005117/download" width="30"/>Hi, I'm <a href="https://benedicteyao.me">Cypher1305</a></h1>
 
-<p align="center">For freelance work? Do reach out via <a href="mailto:k.yao1305@gmail.com">email</a> :)</p>
+<p align="center">For freelance work? Do reach out, <a href="mailto:k.yao1305@gmail.com">email</a> :)</p>
 
 
 ---
