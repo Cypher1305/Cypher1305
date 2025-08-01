@@ -1,4 +1,9 @@
-# <img src="https://slackmojis.com/emojis/69594-100005117/download" width="30"/> Hi, I'm [Cypher1305](https://benedicteyao.me)
+<h1 align="center"> <img src="https://slackmojis.com/emojis/69594-100005117/download" width="30"/>Hi, I'm <a href="https://benedicteyao.me">Cypher1305</a></h1>
+
+<p align="center">For freelance work? Do reach out via <a href="mailto:k.yao1305@gmail.com">email</a> :)</p>
+
+
+---
 
 I'm a passionate tech enthusiast with a bachelor's degree in Web Technologies and Digital Images from the African Higher School of ICT (ESATIC). Currently, I'm pursuing a Master’s degree (Msc BIHAR) at ESATIC, where I'm focused on enhancing my skills in information technology, particularly in artificial intelligence.
 
@@ -32,14 +37,14 @@ I'm a passionate tech enthusiast with a bachelor's degree in Web Technologies an
 --- 
 
 
-### <img src="https://readme-typing-svg.demolab.com/?lines=Tech%20Stack%20and%20Tools&Code&start=true&vCenter=true&pause=2000&size=22" />
+### <img src="https://readme-typing-svg.demolab.com/?lines=Tech%20Stack%20and%20Tools&Code&start=true&vCenter=true&pause=1000&size=22" />
 
 [![My Skills](https://skillicons.dev/icons?i=kubernetes,docker,git,github,gitlab,linux,aws,go,java,python,nodejs,graphql,fastapi,php,laravel,django,firebase,mysql,sqlite,mongodb,html,css,js,ts,react,vuejs,angular,nextjs,tailwind,figma,illustrator)](https://skillicons.dev)
 
 
 ---
 
-## <img src="https://readme-typing-svg.demolab.com/?lines=Achievements&Code&start=true&vCenter=true&pause=2000&size=22" />
+## <img src="https://readme-typing-svg.demolab.com/?lines=Achievements&Code&start=true&vCenter=true&pause=1000&size=22" />
 - 🌟 Completed multiple projects aimed at enhancing user experience and customer satisfaction, focusing on intuitive design and functionality.
 - 🌟 Ranked among the Top 15 contributors (only publics repositories) on GitHub (Ivory Coast [committers.top](https://committers.top/ivory_coast))
 
