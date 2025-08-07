@@ -26,7 +26,6 @@ I'm a passionate tech enthusiast with a bachelor's degree in Web Technologies an
 
 
 
-
 [![committers.top badge](https://user-badge.committers.top/ivory_coast/Cypher1305.svg?cacheSecond)](https://user-badge.committers.top/ivory_coast/Cypher1305)
 ![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=cypher1305.visitor-badge&style=flat)
 
