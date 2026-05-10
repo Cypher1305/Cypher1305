@@ -4,7 +4,7 @@
 
 Just a girl turning ideas to impact...
 
-- **ES_ (Evolve Smarter_)**: A community for tech enthousiast to learn, chare, grow and build impact.[Check it out for the latest updates and articles!](https://esblog.info)
+- **ES_ (Evolve Smarter_)**: A community for tech enthousiast to learn, chare, grow and build impact.[Check it out for the latest updates!](https://esblog.info)
   
 - **JIREH.**: A solidarity-based donation platform to streamline awareness campaigns, donation drives, and the fair redistribution of goods to those in need, as well as support for formation and professional insertion. [Bring a smile to a loved one's face.](https://github.com/JIREH-Labs)
 
