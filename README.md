@@ -29,7 +29,7 @@ Just a girl turning ideas to impact...
 
 ### <img src="https://readme-typing-svg.demolab.com/?lines=Tech%20Stack%20and%20Tools&Code&start=true&vCenter=true&pause=1000&size=22" />
 
-[![My Skills](https://skillicons.dev/icons?i=kubernetes,docker,git,github,gitlab,linux,aws,go,java,python,nodejs,graphql,fastapi,php,laravel,django,firebase,mysql,sqlite,mongodb,html,css,js,ts,react,vuejs,angular,nextjs,tailwind,figma,illustrator)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kubernetes,docker,git,github,gitlab,linux,aws,go,java,python,nodejs,php,graphql,laravel,django,firebase,mysql,mongodb,html,css,js,ts,react,vuejs,angular,tailwind,figma,illustrator)](https://skillicons.dev)
 
 
 ---
