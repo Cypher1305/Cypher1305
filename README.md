@@ -1,21 +1,14 @@
 <h1 align="center"> <img src="https://slackmojis.com/emojis/69594-100005117/download" width="30"/>Hi, I'm <a href="https://benedicteyao.me">Cypher1305</a></h1>
 
-<p align="center"><img src="https://readme-typing-svg.demolab.com/?lines=For%20freelance%20work?%20Do%20reach%20out!%20&Code&start=true&vCenter=true&pause=1000&size=20" /> </br> <a href="mailto:k.yao1305@gmail.com">Here's my email</a> :)</p>
-
-
 ---
 
-I'm a passionate tech enthusiast with a bachelor's degree in Web Technologies and Digital Images from the African Higher School of ICT (ESATIC). Currently, I'm pursuing a Master’s degree (Msc BIHAR) at ESATIC, where I'm focused on enhancing my skills in information technology, particularly in artificial intelligence.
+Just a girl turning ideas to impact...
 
-- **ES-blog**: I run and developed a blog where I share insights on ICT news, student projects, and other tech-related topics. One of its standout features is DORA, a fact-checker designed to effectively combat misinformation.[Check it out for the latest updates and articles!](https://esblog.info)
-
-- **s'Cool Ink**:  I’m also the developer and co-founder of s'Cool Ink, an online printing service platform. We also offer on-site photo shoots during events. [Snap it. Print it. Keep the magic!](https://cypher1305.github.io)
+- **ES_ (Evolve Smarter_)**: A community for tech enthousiast to learn, chare, grow and build impact.[Check it out for the latest updates and articles!](https://esblog.info)
   
-- **JIREH.**: I built a solidarity-based donation platform to streamline awareness campaigns, donation drives, and the fair redistribution of goods to those in need, as well as support for formation and professional insertion. [Bring a smile to a loved one's face.](https://github.com/JIREH-Labs)
+- **JIREH.**: A solidarity-based donation platform to streamline awareness campaigns, donation drives, and the fair redistribution of goods to those in need, as well as support for formation and professional insertion. [Bring a smile to a loved one's face.](https://github.com/JIREH-Labs)
 
-- **Home s'Cool**: _Comming soon!_ [Your next big project starts here!](https://homescool.ci)
-
-- **Digital Creation**: I love expressing my creativity through design and community engagement. [Scroll down to connect with me on social media!](#-get-in-touch)
+- **Digital Creation**: . The world through my eyes... animated.[Scroll down to connect with me on social media!](#-get-in-touch)
 
 ---
 
@@ -47,18 +40,18 @@ I'm a passionate tech enthusiast with a bachelor's degree in Web Technologies an
 
 ## 📰 Subscribe to My Newsletter
 [![Dev.to](https://img.shields.io/badge/Dev.to-Read%20Articles-0d1117?logo=dev.to&logoColor=white&style=for-the-badge)](https://dev.to/cypher1305)
-[![Threads](https://img.shields.io/badge/Threads-Follow-1d2d44?logo=threads&logoColor=white&style=for-the-badge)](https://www.threads.net/@_cypher1305)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-0077b5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/cypher1305)
+[![Threads](https://img.shields.io/badge/Threads-Follow-1d2d44?logo=threads&logoColor=white&style=for-the-badge)](https://www.threads.net/@cypher_1305)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-0077b5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/benedicteyao1305)
 [![CodePen](https://img.shields.io/badge/CodePen-Explore-1e3a8a?logo=codepen&logoColor=white&style=for-the-badge)](https://codepen.io/cypher1305)
 
 ---
 
 ## <img src="https://slackmojis.com/emojis/60672-revolving-hearts/download" width="30"/> Get in Touch
 - [Send me an email](mailto:k.yao1305@email.com)
-- [Connect with me on LinkedIn](https://www.linkedin.com/in/Cypher1305)
-- [Follow me on Instagram](https://www.instagram.com/_cypher1305)
-- [Connect on Facebook](https://www.facebook.com/Cypher1305)
-- [Watch on TikTok](https://www.tiktok.com/@_cypher1305)
+- [Connect with me on LinkedIn](https://www.linkedin.com/in/benedicteyao1305)
+- [Follow me on Instagram](https://www.instagram.com/cypher_1305)
+- [Connect on Facebook](https://www.facebook.com/cypher_1305)
+- [Watch on TikTok](https://www.tiktok.com/@cypher_1305)
 
 
 Thanks for stopping by! Let’s connect and explore the fascinating world of technology together.
